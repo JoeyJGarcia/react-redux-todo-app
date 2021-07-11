@@ -1,3 +1,6 @@
+Source pulled from https://github.com/chrisblakely01/react-redux-todo-app
+Tutorial from: https://www.youtube.com/watch?v=fiesH6WU63I
+
 # React redux todo app
 
 Source code for React redux todo app YouTube tutorial. Includes
